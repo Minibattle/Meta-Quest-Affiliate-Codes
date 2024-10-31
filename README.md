@@ -53,6 +53,11 @@ A list of discount codes for games, apps and hardware on the Meta Quest Store. U
 - [Dance! Dance! Dance!](https://www.meta.com/affiliates/WsJnvEeSF)
 - [The Mixologist](https://www.meta.com/affiliates/AnJi7J1M8)
 - [TOTALLY BASKETBALL](https://www.meta.com/affiliates/ARSqkEtwy)
+- [PowerWash Simulator VR](https://www.meta.com/affiliates/81bN3kz2y)
+- [MarineVerse Cup](https://www.meta.com/affiliates/AexzPAqQQ)
+- [Genotype](https://www.meta.com/affiliates/AaY5bpYAz)
+- [Crashland](https://www.meta.com/affiliates/DocWsahdq)
+- [Cubism](https://www.meta.com/affiliates/9HU76CAfX)
 
 
 # Apps
