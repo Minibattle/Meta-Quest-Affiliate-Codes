@@ -1,5 +1,5 @@
 ## Meta Quest Affiliate Codes
-A list of discount codes for games on the Meta Quest Store. Using any of these will give you a price cut (usually of 10% off)
+A list of discount codes for games on the Meta Quest Store. Using any of these will give you a price cut (usually of 10% off). Please request games via pull requests and I'll get on it ASAP!
 
 # Games
 - [Batman: Arkham Shadow](https://www.meta.com/affiliates/4eMt61m9R3)
