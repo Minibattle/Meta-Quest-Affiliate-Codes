@@ -1,5 +1,5 @@
 ## Meta Quest Affiliate Codes
-A list of discount codes for games, apps and hardware on the Meta Quest Store. Using any of these will give you a price cut (usually of 10% off). Request games via pull requests and they'll usually be added within a day of request.
+A list of discount codes for games, apps, and hardware on the Meta Quest Store. Using any of these will give you a price cut (usually of 10% off). Request games via pull requests and they'll usually be added within a day of request.
 
 # Hardware
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
