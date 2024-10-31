@@ -102,6 +102,7 @@ A list of discount codes for games, apps, and hardware on the Meta Quest Store. 
 - [Mini Motor Racing X](https://www.meta.com/affiliates/9EvM8Q4Nw)
 - [IB Cricket](https://www.meta.com/affiliates/ETtLLUZaY)
 - [Into the Radius](https://www.meta.com/affiliates/RCJWbGTur)
+- [Asgard's Wrath 2](https://www.meta.com/affiliates/8KZZLiykn)
 
 
 # Apps
