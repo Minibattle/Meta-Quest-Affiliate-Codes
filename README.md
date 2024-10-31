@@ -1,5 +1,15 @@
 ## Meta Quest Affiliate Codes
 A list of discount codes for games, apps and hardware on the Meta Quest Store. Using any of these will give you a price cut (usually of 10% off). Request games via pull requests and they'll usually be added within a day of request.
+
+# Hardware
+- [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
+- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
+- [Meta Quest Pro](https://www.meta.com/affiliates/7kF4zKEKY) ($30 in store credit)
+- [Ray-Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
+- [Ray-Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
+- [Ray-Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
+
+
 # Games
 - [Batman: Arkham Shadow](https://www.meta.com/affiliates/4eMt61m9R3)
 - [Beat Saber](https://www.meta.com/affiliates/5GtTEYLtw)
@@ -43,15 +53,6 @@ A list of discount codes for games, apps and hardware on the Meta Quest Store. U
 - [Dance! Dance! Dance!](https://www.meta.com/affiliates/WsJnvEeSF)
 - [The Mixologist](https://www.meta.com/affiliates/AnJi7J1M8)
 - [TOTALLY BASKETBALL](https://www.meta.com/affiliates/ARSqkEtwy)
-
-
-# Hardware
-- [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
-- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
-- [Meta Quest Pro](https://www.meta.com/affiliates/7kF4zKEKY) ($30 in store credit)
-- [Ray-Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
-- [Ray-Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
-- [Ray-Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
 
 
 # Apps
