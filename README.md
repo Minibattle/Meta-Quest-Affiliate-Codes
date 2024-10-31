@@ -87,6 +87,20 @@ A list of discount codes for games, apps, and hardware on the Meta Quest Store. 
 - [Richie's Plank Experience](https://www.meta.com/affiliates/5UgSi43ZB)
 - [PianoVision](https://www.meta.com/affiliates/AzXXaACAw)
 - [Pistol Whip](https://www.meta.com/affiliates/98wuBjpD3)
+- [Synth Riders](https://www.meta.com/affiliates/29ycxkkFty)
+- [Red Matter](https://www.meta.com/affiliates/9bqeEZv2g)
+- [Red Matter 2](https://www.meta.com/affiliates/7vSQGCzuE)
+- [Tetris® Effect: Connected](https://www.meta.com/affiliates/9Np7dFb4a)
+- [STRIDE](https://www.meta.com/affiliates/9ZTj2suUo)
+- [STRIDE: FATES](https://www.meta.com/affiliates/KcCwS1qK1)
+- [The Climb](https://www.meta.com/affiliates/XjRg12P89)
+- [The Climb 2](https://www.meta.com/affiliates/4S5QXpzQJ)
+- [Titans Clinic](https://www.meta.com/affiliates/Ai42qRvAg)
+- [Time Stall](https://www.meta.com/affiliates/4EvnKTeaM)
+- [Hand Physics Lab](https://www.meta.com/affiliates/53zydcqoj)
+- [BARTENDER VR SIMULATOR](https://www.meta.com/affiliates/5fMR8ACqt)
+- [Mini Motor Racing X](https://www.meta.com/affiliates/9EvM8Q4Nw)
+- [IB Cricket](https://www.meta.com/affiliates/ETtLLUZaY)
 
 
 # Apps
