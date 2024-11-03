@@ -103,6 +103,15 @@ Accessories are towards the bottom!
 - [IB Cricket](https://www.meta.com/affiliates/ETtLLUZaY)
 - [Into the Radius](https://www.meta.com/affiliates/RCJWbGTur)
 - [Asgard's Wrath 2](https://www.meta.com/affiliates/8KZZLiykn)
+- [MASTERS OF LIGHT](https://www.meta.com/affiliates/4XRLV8ri5)
+- [Programmer VR](https://www.meta.com/affiliates/5B63XAmhF)
+- [Zero Caliber: Reloaded](https://www.meta.com/affiliates/2GfpNLobdm)
+- [Zero Caliber 2](https://www.meta.com/affiliates/DAp9dMLdW)
+- [MotoX](https://www.meta.com/affiliates/5Gq6R7phz)
+- [Ghost Giant](https://www.meta.com/affiliates/5FV27nmvX)
+- [Racket: Nx](https://www.meta.com/affiliates/D2yh7qQR9)
+- [Racket Club](https://www.meta.com/affiliates/CSBjkMSws)
+- [Racket Fury: Table Tennis VR](https://www.meta.com/affiliates/EK921L3wo)
 
 
 # Apps
