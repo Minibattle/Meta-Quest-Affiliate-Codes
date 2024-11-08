@@ -115,6 +115,9 @@ Accessories are towards the bottom!
 - [Sushi Ben](https://www.meta.com/affiliates/9HyzwRVAp)
 - [Drums Rock](https://www.meta.com/affiliates/3QMEbTpoN)
 - [Vacation Simulator](https://www.meta.com/affiliates/7qUDZfmUR)
+- [Metro Awakening](https://www.meta.com/affiliates/59gT23hZJ)
+- [Living Room](https://www.meta.com/affiliates/D47JtsfMU)
+- [Dumb Ways Free For All](https://www.meta.com/affiliates/FJcFgiu8T)
 
 
 # Apps
@@ -154,6 +157,7 @@ Accessories are towards the bottom!
 - [Titans of Space PLUS](https://www.meta.com/affiliates/9FZrzF7AS)
 - [Pure Barre](https://www.meta.com/affiliates/4TgfNvNL2)
 - [Cirque du Soleil](https://www.meta.com/affiliates/B9B8gQACn)
+- [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
 
 
 # Accessories
