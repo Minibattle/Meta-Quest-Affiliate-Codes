@@ -2,7 +2,7 @@
 A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (20% off apps right now for the holidays). Request games via reporting an issue and they'll usually be added within a day of request.
 
 # 🎅 LIMITED TIME HOLIDAY DEALS 🎅
-EVERYTHING IS DOUBLED - THE 10% RATE IS NOW 20% AND THE $30 STORE CREDIT IS NOW $60! NOW IS THE BEST TIME TO BUY
+EVERYTHING IS DOUBLED - THE 10% RATE IS NOW 20% AND THE $30 STORE CREDIT IS NOW $60! NOW IS THE BEST TIME TO BUY! (You have until December 31st to take advantadge of this)
 
 # Hardware
 Accessories are towards the bottom!
