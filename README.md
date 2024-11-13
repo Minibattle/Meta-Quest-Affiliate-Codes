@@ -120,6 +120,10 @@ Accessories are towards the bottom!
 - [Metro Awakening](https://www.meta.com/affiliates/59gT23hZJ)
 - [Living Room](https://www.meta.com/affiliates/D47JtsfMU)
 - [Dumb Ways Free For All](https://www.meta.com/affiliates/FJcFgiu8T)
+- [Crowbar Climber](https://www.meta.com/affiliates/EQVvq5HhS)
+- [Metamorphosis](https://www.meta.com/affiliates/5RyrXPKyq)
+- [Hide The Corpse](https://www.meta.com/affiliates/PD2QPN2yi)
+- [PUNCH FIT - MR Edition -](https://www.meta.com/affiliates/HtVq5KhaR)
 
 
 # Apps
