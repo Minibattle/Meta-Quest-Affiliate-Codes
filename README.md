@@ -1,14 +1,14 @@
 ## Meta Quest Affiliate Codes
-A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (20% off apps right now for the holidays). Request games via reporting an issue and they'll usually be added within a day of request.
+A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request.
 
 # 🎅 LIMITED TIME HOLIDAY DEALS 🎅
-EVERYTHING IS DOUBLED - THE 10% RATE IS NOW 20% AND THE $30 STORE CREDIT IS NOW $60! NOW IS THE BEST TIME TO BUY! (You have until December 31st to take advantadge of this)
+STARTING NOVEMBER 29TH, EVERYTHING IS DOUBLED - THE 10% RATE WILL BE 20% AND THE $30 STORE CREDIT WILL BE $60! STARTING NOVEMBER 29TH IS THE BEST TIME TO BUY! (You have until December 31st to take advantadge of this)
 
 # Hardware
 Accessories are towards the bottom!
-- [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($60 in store credit)
-- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($60 in store credit)
-- [Meta Quest Pro](https://www.meta.com/affiliates/7kF4zKEKY) ($60 in store credit)
+- [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
+- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
+- [Meta Quest Pro](https://www.meta.com/affiliates/7kF4zKEKY) ($30 in store credit)
 - [Meta Quest 3s - 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) (No benefit but supports me)
 - [Meta Quest 3 - 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) (No benefit but supports me)
 - [Ray-Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
