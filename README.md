@@ -128,6 +128,8 @@ Accessories are towards the bottom!
 - [Hide The Corpse](https://www.meta.com/affiliates/PD2QPN2yi)
 - [PUNCH FIT - MR Edition -](https://www.meta.com/affiliates/HtVq5KhaR)
 - [Does It Stack?](https://www.meta.com/affiliates/GudhqdmDq)
+- [Smash Drums](https://www.meta.com/affiliates/WpkyTU2TV)
+- [Paradiddle](https://www.meta.com/affiliates/LkuKryjW2)
 
 
 # Apps
