@@ -131,6 +131,10 @@ Accessories are towards the bottom!
 - [Smash Drums](https://www.meta.com/affiliates/WpkyTU2TV)
 - [Paradiddle](https://www.meta.com/affiliates/LkuKryjW2)
 - [Broken Edge](https://www.meta.com/affiliates/8FEitgA7C)
+- [EXOcars](https://www.meta.com/affiliates/8KdNN3YyM)
+- [DIG VR](https://www.meta.com/affiliates/9Xoa2q14k)
+- [Starship Troopers: Continuum](https://www.meta.com/affiliates/9R3Qj65we)
+- [Spatial Ops](https://www.meta.com/affiliates/5RPx7v5i9)
 
 
 # Apps
