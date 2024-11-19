@@ -135,6 +135,7 @@ Accessories are towards the bottom!
 - [DIG VR](https://www.meta.com/affiliates/9Xoa2q14k)
 - [Starship Troopers: Continuum](https://www.meta.com/affiliates/9R3Qj65we)
 - [Spatial Ops](https://www.meta.com/affiliates/5RPx7v5i9)
+- [Amid Evil](https://www.meta.com/affiliates/41ai8Xxy8)
 
 
 # Apps
@@ -175,7 +176,6 @@ Accessories are towards the bottom!
 - [Pure Barre](https://www.meta.com/affiliates/4TgfNvNL2)
 - [Cirque du Soleil](https://www.meta.com/affiliates/B9B8gQACn)
 - [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
-- [Amid Evil](https://www.meta.com/affiliates/41ai8Xxy8)
 
 
 # Accessories
