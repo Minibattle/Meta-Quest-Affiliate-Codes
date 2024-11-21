@@ -137,6 +137,9 @@ Accessories are towards the bottom!
 - [Spatial Ops](https://www.meta.com/affiliates/5RPx7v5i9)
 - [Amid Evil](https://www.meta.com/affiliates/41ai8Xxy8)
 - [Peaky Blinders: The King's Ransom](https://www.meta.com/affiliates/8ipNGm75a)
+- [Dragon Fist: VR Kung Fu](https://www.meta.com/affiliates/8JfJ6em6a)
+- [Taiko Frenzy](https://www.meta.com/affiliates/BDUPzJSnG)
+- [By Grit Alone](https://www.meta.com/affiliates/4RsEDMzph)
 
 
 # Apps
