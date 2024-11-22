@@ -140,6 +140,7 @@ Accessories are towards the bottom!
 - [Dragon Fist: VR Kung Fu](https://www.meta.com/affiliates/8JfJ6em6a)
 - [Taiko Frenzy](https://www.meta.com/affiliates/BDUPzJSnG)
 - [By Grit Alone](https://www.meta.com/affiliates/4RsEDMzph)
+- [The Thrill of the Fight 2](https://www.meta.com/affiliates/8C9t6kLsT)
 
 
 # Apps
