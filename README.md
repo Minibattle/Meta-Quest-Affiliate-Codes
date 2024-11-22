@@ -19,7 +19,7 @@ Accessories are towards the bottom!
 # Games
 - [Batman: Arkham Shadow](https://www.meta.com/affiliates/4eMt61m9R3)
 - [Beat Saber](https://www.meta.com/affiliates/5GtTEYLtw)
-- [Blade & Sorcery: Nomad](https://www.meta.com/affiliates/9ZE4wBHaU)
+- [Blade Sorcery: Nomad](https://www.meta.com/affiliates/9ZE4wBHaU)
 - [BONELAB](https://www.meta.com/affiliates/81Zd1qv4P)
 - [Job Simulator](https://www.meta.com/affiliates/5SYJ6vzkg)
 - [I Am Cat](https://www.meta.com/affiliates/MCighgDdY)
