@@ -141,6 +141,7 @@ Accessories are towards the bottom!
 - [Taiko Frenzy](https://www.meta.com/affiliates/BDUPzJSnG)
 - [By Grit Alone](https://www.meta.com/affiliates/4RsEDMzph)
 - [The Thrill of the Fight 2](https://www.meta.com/affiliates/8C9t6kLsT)
+- [Ember Souls](https://www.meta.com/affiliates/BkxvTfvdz)
 
 
 # Apps
