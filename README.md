@@ -80,7 +80,7 @@ Accessories are towards the bottom!
 - [Resident Evil 4](https://www.meta.com/affiliates/4Tx4B9AKU)
 - [Tactical Assault VR](https://www.meta.com/affiliates/7rj1C2Uun)
 - [War of Wizards](https://www.meta.com/affiliates/zJkR7sj8o)
-- [Attack on Titan VR: Unbreakable - Early Access](https://www.meta.com/affiliates/5Q8XWdAyR)
+- [Attack on Titan VR: Unbreakable](https://www.meta.com/affiliates/5Q8XWdAyR)
 - [Real VR Fishing](https://www.meta.com/affiliates/AuSCsoRwg)
 - [Eleven Table Tennis](https://www.meta.com/affiliates/AqvCFNCkV)
 - [Contractors](https://www.meta.com/affiliates/DGgcA2puR)
