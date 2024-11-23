@@ -230,7 +230,7 @@ None of these include a discount but purchasing them does give me a kick back at
 - [KIWI Design RGB Vertical Stand for Meta Quest](https://www.meta.com/affiliates/7jTxQzzku)
 
 
-##DEBUG FOR UPCOMING CHROME EXTENSION PLEASE IGNORE
+## DEBUG FOR UPCOMING CHROME EXTENSION PLEASE IGNORE
 ### Working
 - +
 - ®
