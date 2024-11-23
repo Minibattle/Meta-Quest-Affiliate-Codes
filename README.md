@@ -223,3 +223,14 @@ None of these include a discount but purchasing them does give me a kick back at
 - [Incase Carry Case for Meta Quest Pro](https://www.meta.com/affiliates/7je1nHGit)
 - [Meta Quest 3S Breathable Facial Interface](https://www.meta.com/affiliates/5U4Q2W5KQ)
 - [KIWI Design RGB Vertical Stand for Meta Quest](https://www.meta.com/affiliates/7jTxQzzku)
+
+
+##DEBUG FOR UPCOMING CHROME EXTENSION PLEASE IGNORE
+### Working
+- +
+- ®
+- :
+
+### Broken
+- &
+- -
