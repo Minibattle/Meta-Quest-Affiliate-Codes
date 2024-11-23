@@ -29,7 +29,7 @@ Accessories are towards the bottom!
 - [Walkabout Mini Golf](https://www.meta.com/affiliates/5CZpriFtd)
 - [Onward](https://www.meta.com/affiliates/5Xo3wCSRH)
 - [SUPERHOT VR](https://www.meta.com/affiliates/8uSHhKYx4)
-- [Creed: Rise to Glory Championship Edidtion™](https://www.meta.com/affiliates/9Uc2zhqD4)
+- [Creed: Rise to Glory Championship Edidtion](https://www.meta.com/affiliates/9Uc2zhqD4)
 - [GOLF+](https://www.meta.com/affiliates/9PiAgbsR1)
 - [NFL PRO ERA](https://www.meta.com/affiliates/4Mxa8xt9J)
 - [Among Us VR](https://www.meta.com/affiliates/5bGuACHYi)
@@ -239,3 +239,4 @@ None of these include a discount but purchasing them does give me a kick back at
 ### Broken
 - &
 - -
+- ™
