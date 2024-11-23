@@ -143,6 +143,11 @@ Accessories are towards the bottom!
 - [The Thrill of the Fight 2](https://www.meta.com/affiliates/8C9t6kLsT)
 - [Ember Souls](https://www.meta.com/affiliates/BkxvTfvdz)
 - [Final Space VR The Rescue](https://www.meta.com/affiliates/5Co15hFuc)
+- [Squingle](https://www.meta.com/affiliates/8KBrFQ6wp)
+- [xFIT: Powered by World of Dance](https://www.meta.com/affiliates/GGNDrJPdQ)
+- [Augmented Empire](https://www.meta.com/affiliates/BGohAwPLw)
+- [Bounce Arcade](https://www.meta.com/affiliates/9bb8b4fQR)
+- [Wall Town Wonders](https://www.meta.com/affiliates/8JK1JctSF)
 
 
 # Apps
