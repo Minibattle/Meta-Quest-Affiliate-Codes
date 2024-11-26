@@ -1,7 +1,9 @@
 ## Meta Quest Affiliate Codes
 A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request.
 
-# Firefox Extension Available Now
+# Automatic Extensions Available Now
+[<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/)
+
 Automatically apply the 10% discount to EVERY game on the Quest store using this [Firefox Extension!](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) Chrome extension coming soon.
 
 # 🎅 UPCOMING LIMITED TIME HOLIDAY DEALS 🎅
@@ -16,7 +18,8 @@ Accessories are towards the bottom!
 - [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($30 in store credit)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
-- [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
+- [Ray Ban Meta Skyler](https://www.me![Firefox_logo,_2019 svg](https://github.com/user-attachments/assets/c32e4c39-2a20-467f-9f4e-6fc0f218762d)
+ta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
 
 
 # Games
