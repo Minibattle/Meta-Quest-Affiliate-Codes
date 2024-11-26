@@ -154,6 +154,7 @@ ta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
 - [Augmented Empire](https://www.meta.com/affiliates/BGohAwPLw)
 - [Bounce Arcade](https://www.meta.com/affiliates/9bb8b4fQR)
 - [Wall Town Wonders](https://www.meta.com/affiliates/8JK1JctSF)
+- [Split Second](https://www.meta.com/affiliates/YM1xoBNJ1)
 
 
 # Apps
