@@ -4,7 +4,7 @@ A list of discount codes for games, apps, hardware, and accessories on the Meta 
 # Automatic Extensions Available Now
 [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/)
 
-Automatically apply the 10% discount to EVERY game on the Quest store using this [Firefox Extension!](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) Chrome extension coming soon.
+Automatically apply the 10% discount to EVERY game on the Quest store using this [Firefox Extension!](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) Chrome extension coming soon (should hopefully be no longer than a week).
 
 # 🎅 UPCOMING LIMITED TIME HOLIDAY DEALS 🎅
 STARTING NOVEMBER 29TH, EVERYTHING WILL BE DOUBLED - THE 10% RATE WILL BE 20% AND THE $30 STORE CREDIT WILL BE $60! STARTING NOVEMBER 29TH IS THE BEST TIME TO BUY! (You have until December 31st to take advantadge of this)
