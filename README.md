@@ -2,7 +2,7 @@
 A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request.
 
 # Firefox Extension Available Now
-Automatically apply the 10% discount to EVERY game on tHe Quest store using this [Firefox Extension!](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) Chrome extension coming soon.
+Automatically apply the 10% discount to EVERY game on the Quest store using this [Firefox Extension!](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) Chrome extension coming soon.
 
 # 🎅 UPCOMING LIMITED TIME HOLIDAY DEALS 🎅
 STARTING NOVEMBER 29TH, EVERYTHING WILL BE DOUBLED - THE 10% RATE WILL BE 20% AND THE $30 STORE CREDIT WILL BE $60! STARTING NOVEMBER 29TH IS THE BEST TIME TO BUY! (You have until December 31st to take advantadge of this)
