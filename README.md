@@ -18,8 +18,7 @@ Accessories are towards the bottom!
 - [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($30 in store credit)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
-- [Ray Ban Meta Skyler](https://www.me![Firefox_logo,_2019 svg](https://github.com/user-attachments/assets/c32e4c39-2a20-467f-9f4e-6fc0f218762d)
-ta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
+- [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
 
 
 # Games
