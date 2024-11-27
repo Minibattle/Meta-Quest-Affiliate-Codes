@@ -155,6 +155,48 @@ Accessories are towards the bottom!
 - [Wall Town Wonders](https://www.meta.com/affiliates/8JK1JctSF)
 - [Split Second](https://www.meta.com/affiliates/YM1xoBNJ1)
 - [Trombone Champ: Unflattened!](https://www.meta.com/affiliates/4VrGzK2uZ)
+- [Pickleball One](https://www.meta.com/affiliates/DJQCE7qq9)
+- [Eleven Pickleball](https://www.meta.com/affiliates/8SjU8h1FA)
+- [I Am Security](https://www.meta.com/affiliates/BEuzGggz5)
+- [NightClub Simulator VR](https://www.meta.com/affiliates/CoDvkQDP6)
+- [Last Stand](https://www.meta.com/affiliates/9bmvD2bFr)
+- [Last Labyrinth](https://www.meta.com/affiliates/54K4RhXRS)
+- [The Fight](https://www.meta.com/affiliates/4MF3UTQiX)
+- [BattleGlide](https://www.meta.com/affiliates/3qD2AxzWC)
+- [Battle Talent](https://www.meta.com/affiliates/CyUNPQRHM)
+- [Battle Bows](https://www.meta.com/affiliates/E2pJFVtPd)
+- [Darksword: Battle Eternity](https://www.meta.com/affiliates/8TpetkPnT)
+- [Puzzling Places](https://www.meta.com/affiliates/7t6DtzAdU)
+- [Spacefolk City](https://www.meta.com/affiliates/AnGiakjxm)
+- [Drop Dead: The Cabin](https://www.meta.com/affiliates/5jaDv3TYw)
+- [Drop Dead: Dual Strike Edition](https://www.meta.com/affiliates/5gGSacpYo)
+- [Knockout League](https://www.meta.com/affiliates/5inCWkNWb)
+- [Wallace Gromit in The Grand Getaway](https://www.meta.com/affiliates/F8c2suNfC)
+- [Broken Edge](https://www.meta.com/affiliates/8FEitgA7C)
+- [Please, Don't Touch Anything](https://www.meta.com/affiliates/5MPmh1RM1)
+- [Please, Don't Touch Anything: House Broken](https://www.meta.com/affiliates/Gx8F6iVoh)
+- [BAM](https://www.meta.com/affiliates/8XkUipYzj)
+- [Zombies Noir: Mixed Reality](https://www.meta.com/affiliates/9xHB68DR2)
+- [Zombieland: Headshot Fever](https://www.meta.com/affiliates/4j9mR6D1E)
+- [Demeo Battles](https://www.meta.com/affiliates/CZKFhCY7X)
+- [Demeo](https://www.meta.com/affiliates/DiecRLacg)
+- [Neko Atsume Purrfect Kitty Collector](https://www.meta.com/affiliates/5Muse9DRz)
+- [Clash of Chefs VR](https://www.meta.com/affiliates/5ELMYzibe)
+- [LEGO® Bricktales](https://www.meta.com/affiliates/5PngWLzRz)
+- [Keep Talking and Nobody Explodes](https://www.meta.com/affiliates/CqEqTQBVP)
+- [Espire 2: Stealth Operatives](https://www.meta.com/affiliates/4nj4oSrjn7)
+- [Espire 1: VR Operative](https://www.meta.com/affiliates/5ajXEJRQ9)
+- [Linelight](https://www.meta.com/affiliates/AbHSZ5yQE)
+- [YUKI Space Ranger](https://www.meta.com/affiliates/5ZHxEj2QD)
+- [Gravity Lab](https://www.meta.com/affiliates/9iVAKjQEY)
+- [Gravity League: Galactic Football](https://www.meta.com/affiliates/TjBHKEeCG)
+- [Samba de Amigo: Virtual Party](https://www.meta.com/affiliates/7jU9guQqu)
+- [ISLANDERS VR Edition](https://www.meta.com/affiliates/Uz2VLrMdz)
+- [Dragon Front Rising](https://www.meta.com/affiliates/DpFgPA1Z8)
+- [ForeVR Pool](https://www.meta.com/affiliates/9SHpwcHe6)
+- [ForeVR Darts](https://www.meta.com/affiliates/9x7RQCSSJ)
+- [ForeVR Bowl](https://www.meta.com/affiliates/5NXxUGuu1)
+- [Green Hell VR](https://www.meta.com/affiliates/WHMb75o7z)
 
 
 # Apps
@@ -242,6 +284,7 @@ None of these include a discount but purchasing them does give me a kick back at
 - +
 - ®
 - :
+- !
 
 ### Broken
 - &
