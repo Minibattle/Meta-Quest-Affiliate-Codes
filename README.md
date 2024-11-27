@@ -197,6 +197,26 @@ Accessories are towards the bottom!
 - [ForeVR Darts](https://www.meta.com/affiliates/9x7RQCSSJ)
 - [ForeVR Bowl](https://www.meta.com/affiliates/5NXxUGuu1)
 - [Green Hell VR](https://www.meta.com/affiliates/WHMb75o7z)
+- [MiRacle Pool](https://www.meta.com/affiliates/4Yyy1uLXZ)
+- [Warplanes: WW1 Fighters](https://www.meta.com/affiliates/4RxMCfDRi)
+- [Warplanes: Air Corp](https://www.meta.com/affiliates/9eqPSGXhL)
+- [Warplanes: Battles over Pacific](https://www.meta.com/affiliates/9NqzWngLw)
+- [Warhammer 40,000: Battle Sister](https://www.meta.com/affiliates/Emop7C1Mu)
+- [Warhammer Age of Sigmar: Tempestfall](https://www.meta.com/affiliates/DyH42gPQX)
+- [Ironlights](https://www.meta.com/affiliates/5TUs8ApTk)
+- [Dungeons Of Eternity](https://www.meta.com/affiliates/8EB2j64PH)
+- [Track Craft](https://www.meta.com/affiliates/Dk94xcKsk)
+- [Brazen Blaze 3vs3 BRAWL ARENA](https://www.meta.com/affiliates/9azUAAyR1)
+- [Mannequin](https://www.meta.com/affiliates/JeWaWg3fv)
+- [GRID Legends](https://www.meta.com/affiliates/5Th9hYCdU)
+- [Ninja Legends](https://www.meta.com/affiliates/DmFbdj6vn)
+- [Undead Citadel](https://www.meta.com/affiliates/BMfwtdNNB)
+- [The Light Brigade](https://www.meta.com/affiliates/DgaYSARgk)
+- [Death Horizon: Reloaded](https://www.meta.com/affiliates/DtMGsNVh9)
+- [Game Night](https://www.meta.com/affiliates/DuzPJJz1Z)
+- [Death Game Hotel](https://www.meta.com/affiliates/GsHkPStZq)
+- [Airspace Defender](https://www.meta.com/affiliates/2FkBT8N39M)
+- [Infinite Inside](https://www.meta.com/affiliates/ASwPSSKZi)
 
 
 # Apps
@@ -285,6 +305,8 @@ None of these include a discount but purchasing them does give me a kick back at
 - ®
 - :
 - !
+- ,
+- '
 
 ### Broken
 - &
