@@ -217,6 +217,7 @@ Accessories are towards the bottom!
 - [Death Game Hotel](https://www.meta.com/affiliates/GsHkPStZq)
 - [Airspace Defender](https://www.meta.com/affiliates/2FkBT8N39M)
 - [Infinite Inside](https://www.meta.com/affiliates/ASwPSSKZi)
+- [Trivia Crack World](https://www.meta.com/affiliates/9tusQi8i4)
 
 
 # Apps
