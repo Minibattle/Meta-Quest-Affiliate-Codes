@@ -219,6 +219,7 @@ Accessories are towards the bottom!
 - [Infinite Inside](https://www.meta.com/affiliates/ASwPSSKZi)
 - [Trivia Crack World](https://www.meta.com/affiliates/9tusQi8i4)
 - [Project Demigod](https://www.meta.com/affiliates/9KiEffEaj)
+- [COMPOUND](https://www.meta.com/affiliates/QiBnhvufH)
 
 
 # Apps
