@@ -220,6 +220,7 @@ Accessories are towards the bottom!
 - [Trivia Crack World](https://www.meta.com/affiliates/9tusQi8i4)
 - [Project Demigod](https://www.meta.com/affiliates/9KiEffEaj)
 - [COMPOUND](https://www.meta.com/affiliates/QiBnhvufH)
+- [Shattered](https://www.meta.com/affiliates/5gRfoDwpb)
 
 
 # Apps
