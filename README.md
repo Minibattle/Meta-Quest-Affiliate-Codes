@@ -228,6 +228,7 @@ Accessories are towards the bottom!
 - [Songbird](https://www.meta.com/affiliates/4TwrLEuta)
 - [CoasterMania](https://www.meta.com/affiliates/8QZ1oM3Nj)
 - [Drakheir The First Hand Tracking ARPG](https://www.meta.com/affiliates/9VdCjNn4m)
+- [Slot Car VR](https://www.meta.com/affiliates/HE6DaPqAo)
 
 
 # Apps
