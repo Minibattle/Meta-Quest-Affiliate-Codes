@@ -240,6 +240,8 @@ Accessories are towards the bottom!
 - [Home Invasion](https://www.meta.com/affiliates/Xc44SG2qb)
 - [Marvel's Iron Man VR](https://www.meta.com/affiliates/Aq13xhrbQ)
 - [Block Buster](https://www.meta.com/affiliates/8WMkiAUxD)
+- [Swordsman](https://www.meta.com/affiliates/8gC7LLoEx)
+- [Party Versus](https://www.meta.com/affiliates/H15ZqtDyw)
 
 
 # Apps
