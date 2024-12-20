@@ -242,6 +242,8 @@ Accessories are towards the bottom!
 - [Block Buster](https://www.meta.com/affiliates/8WMkiAUxD)
 - [Swordsman](https://www.meta.com/affiliates/8gC7LLoEx)
 - [Party Versus](https://www.meta.com/affiliates/H15ZqtDyw)
+- [Grimlord](https://www.meta.com/affiliates/EQv3YJ5rE)
+- [Dino Hab](https://www.meta.com/affiliates/CeYH64FPG)
 
 
 # Apps
