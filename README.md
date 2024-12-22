@@ -245,6 +245,8 @@ Accessories are towards the bottom!
 - [Grimlord](https://www.meta.com/affiliates/EQv3YJ5rE)
 - [Dino Hab](https://www.meta.com/affiliates/CeYH64FPG)
 - [Anomaly](https://www.meta.com/affiliates/7k2aowgd6)
+- [I Am Security](https://www.meta.com/affiliates/BEuzGggz5)
+- [Shopenkraft's Magic Goods](https://www.meta.com/affiliates/ELYUXyLN5)
 
 
 # Apps
