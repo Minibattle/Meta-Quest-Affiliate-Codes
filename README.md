@@ -247,6 +247,11 @@ Accessories are towards the bottom!
 - [Anomaly](https://www.meta.com/affiliates/7k2aowgd6)
 - [I Am Security](https://www.meta.com/affiliates/BEuzGggz5)
 - [Shopenkraft's Magic Goods](https://www.meta.com/affiliates/ELYUXyLN5)
+- [Figmin XR | Mixed Reality](https://www.meta.com/affiliates/KoA5ehpAr)
+- [Cubism](https://www.meta.com/affiliates/9HU76CAfX)
+- [Ocean Rift](https://www.meta.com/affiliates/9aXGWZAjJ)
+- [Titanic: A Space Between](https://www.meta.com/affiliates/85qwPtnz7)
+- [Premier League Player](https://www.meta.com/affiliates/5CTRPD9Qy)
 
 
 # Apps
