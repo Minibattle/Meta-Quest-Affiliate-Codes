@@ -253,6 +253,7 @@ Accessories are towards the bottom!
 - [Titanic: A Space Between](https://www.meta.com/affiliates/85qwPtnz7)
 - [Premier League Player](https://www.meta.com/affiliates/5CTRPD9Qy)
 - [Neko Atsume Purrfect Kitty Collector](https://www.meta.com/affiliates/5Muse9DRz)
+- [EarthQuest](https://www.meta.com/affiliates/BjgzSuxno)
 
 
 # Apps
