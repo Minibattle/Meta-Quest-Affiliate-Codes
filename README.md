@@ -13,7 +13,6 @@ EVERYTHING IS DOUBLED - THE 10% RATE IS NOW 20% AND THE $30 STORE CREDIT IS NOW 
 Accessories are towards the bottom!
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($60 in store credit)
 - [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($60 in store credit)
-- [Meta Quest Pro](https://www.meta.com/affiliates/7kF4zKEKY) ($60 in store credit)
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($60 in store credit)
 - [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($60 in store credit)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
