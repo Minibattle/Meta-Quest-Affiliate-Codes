@@ -1,20 +1,18 @@
 ## Meta Quest Affiliate Codes
-A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (20% off apps right now for the holidays). Request games via reporting an issue and they'll usually be added within a day of request. If they aren't added in a day, the games probably aren't in my affiliate portal yet so you'll have to wait for it too show up for me before I can give it to you.
+A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (Usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request. If they aren't added in a day, the games probably aren't in my affiliate portal yet so you'll have to wait for it too show up for me before I can give it to you.
 
 # Automatic Extensions Available Now
 [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/)
 
 Automatically applies the 10% discount to EVERY game on the Quest store (including DLC's) using this [Chrome extension](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en). A [Firefox Extension](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) is also available. The extension uses an exploit to enable the 10% off on EVERYTHING- even things that are missing from this github.
 
-# 🎅 LIMITED TIME HOLIDAY DEALS ACTIVE NOW 🎅
-EVERYTHING IS DOUBLED - THE 10% RATE IS NOW 20% AND THE $30 STORE CREDIT IS NOW $60! NOW IS THE BEST TIME TO BUY! (You have until December 31st to take advantadge of this)
 
 # Hardware
 Accessories are towards the bottom!
-- [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($60 in store credit)
-- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($60 in store credit)
-- [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($60 in store credit)
-- [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($60 in store credit)
+- [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
+- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
+- [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
+- [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($30 in store credit)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
 - [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
