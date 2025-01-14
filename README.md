@@ -1,7 +1,7 @@
 ## Meta Quest Affiliate Codes
 A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (Usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request. If they aren't added in a day, the games probably aren't in my affiliate portal yet so you'll have to wait for it too show up for me before I can give it to you.
 
-# Automatic Extensions Available Now
+# Automatic Extensions/Add-ons
 [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/metastore-affiliate-redirector/) [<img src="https://github.com/user-attachments/assets/38b2ac90-5863-4b41-ae31-a0bd4f6ebeec" alt="(https://github.com/user-attachments/assets/38b2ac90-5863-4b41-ae31-a0bd4f6ebeec)" width="100"/>](https://www.google.com/search?q=insert+edge+link&oq=insert+edge+link&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyBwgHEAAY7wUyBwgIEAAY7wUyBwgJEAAY7wXSAQgzMDg1ajBqOagCALACAQ&sourceid=chrome&ie=UTF-8)
 
 
