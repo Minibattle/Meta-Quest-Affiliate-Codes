@@ -261,6 +261,8 @@ Accessories are towards the bottom!
 - [Ancient Dungeon](https://www.meta.com/affiliates/aohFFdTK8)
 - [Beyond Blue: After the Storm](https://www.meta.com/affiliates/A22q3K4jB)
 - [Alien: Rogue Incursion](https://www.meta.com/affiliates/9VfeYsu6K)
+- [Chronostrike](https://www.meta.com/affiliates/BRc4EtsC9)
+- [Heart Lung Machine](https://www.meta.com/affiliates/5AbEyr32R)
 
 
 # Apps
