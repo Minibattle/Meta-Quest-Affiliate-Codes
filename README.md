@@ -272,6 +272,7 @@ Accessories are towards the bottom!
 - [Plastic Battlegrounds](https://www.meta.com/affiliates/EJ3WW5p5u)
 - [Drunkn Bar Fight 2 Early Access](https://www.meta.com/affiliates/DQXk2sy7a)
 - [Walk the Plank](https://www.meta.com/affiliates/EheEutQg7)
+- [Hello Neighbor: Search and Rescue](https://www.meta.com/affiliates/8rxNEZnw8)
 
 
 # Apps
@@ -312,7 +313,6 @@ Accessories are towards the bottom!
 - [Pure Barre](https://www.meta.com/affiliates/4TgfNvNL2)
 - [Cirque du Soleil](https://www.meta.com/affiliates/B9B8gQACn)
 - [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
-- [Hello Neighbor: Search and Rescue](https://www.meta.com/affiliates/8rxNEZnw8)
 
 
 # Accessories
