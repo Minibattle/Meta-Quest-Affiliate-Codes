@@ -268,6 +268,10 @@ Accessories are towards the bottom!
 - [Pixel Dungeon](https://www.meta.com/affiliates/5W7eRUmUL)
 - [Selina: Mind at Large](https://www.meta.com/affiliates/5S3SmyR7P)
 - [Farming Simulator VR](https://www.meta.com/affiliates/CBaJZ1jGB)
+- [Kaiju Battle Simulator](https://www.meta.com/affiliates/5M9kXfRyH)
+- [Plastic Battlegrounds](https://www.meta.com/affiliates/EJ3WW5p5u)
+- [Drunkn Bar Fight 2 Early Access](https://www.meta.com/affiliates/DQXk2sy7a)
+- [Walk the Plank](https://www.meta.com/affiliates/EheEutQg7)
 
 
 # Apps
