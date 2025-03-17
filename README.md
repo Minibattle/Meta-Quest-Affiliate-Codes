@@ -274,6 +274,7 @@ Accessories are towards the bottom!
 - [Walk the Plank](https://www.meta.com/affiliates/EheEutQg7)
 - [Hello Neighbor: Search and Rescue](https://www.meta.com/affiliates/8rxNEZnw8)
 - [Deep Cuts](https://www.meta.com/affiliates/6HKqTLKg9)
+- [Slowp](https://www.meta.com/affiliates/99gp3Ki5f)
 
 
 # Apps
