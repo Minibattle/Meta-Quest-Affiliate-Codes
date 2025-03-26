@@ -275,6 +275,7 @@ Accessories are towards the bottom!
 - [Hello Neighbor: Search and Rescue](https://www.meta.com/affiliates/8rxNEZnw8)
 - [Deep Cuts](https://www.meta.com/affiliates/6HKqTLKg9)
 - [Slowp](https://www.meta.com/affiliates/99gp3Ki5f)
+- [Hellsplit: Arena](https://www.meta.com/affiliates/2Du15XckfV)
 
 
 # Apps
