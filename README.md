@@ -276,6 +276,10 @@ Accessories are towards the bottom!
 - [Deep Cuts](https://www.meta.com/affiliates/6HKqTLKg9)
 - [Slowp](https://www.meta.com/affiliates/99gp3Ki5f)
 - [Hellsplit: Arena](https://www.meta.com/affiliates/2Du15XckfV)
+- [Star Wars: Tales from the Galaxy's Edge](https://www.meta.com/affiliates/5e6xugYK9)
+- [Vader Immortal: Episode I](https://www.meta.com/affiliates/7zav93Lr6)
+- [Vader Immortal: Episode II](https://www.meta.com/affiliates/AB5tEdhM2)
+- [Vader Immortal: Episode III](https://www.meta.com/affiliates/6GM4WYLyA)
 
 
 # Apps
