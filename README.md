@@ -281,6 +281,10 @@ Accessories are towards the bottom!
 - [Vader Immortal: Episode II](https://www.meta.com/affiliates/AB5tEdhM2)
 - [Vader Immortal: Episode III](https://www.meta.com/affiliates/6GM4WYLyA)
 - [Wanderer: The Fragments of Fate](https://www.meta.com/affiliates/FcesxADhf)
+- [Harpagun](https://www.meta.com/affiliates/9wuN2SspB)
+- [Cooking Clash](https://www.meta.com/affiliates/ABJbft9RA)
+- [Crystal Commanders](https://www.meta.com/affiliates/KRG6Rs9QF)
+- [Sid Meier's Civilization® VII VR](https://www.meta.com/affiliates/8fr76ruPt)
 
 
 # Apps
