@@ -288,6 +288,12 @@ Accessories are towards the bottom!
 - [GORN 2](https://www.meta.com/affiliates/ExfoCriMM)
 - [Vestiges: Fallen Tribes](https://www.meta.com/affiliates/5AV8n8Rax)
 - [Ghost Town](https://www.meta.com/affiliates/Bkim5VdkR)
+- [Gorilla Tag](https://www.meta.com/affiliates/FMMtNM5Hw)
+- [Animal Company](https://www.meta.com/affiliates/AQogFLvEU)
+- [Scary Baboon](https://www.meta.com/affiliates/6HJEscnSF)
+- [Rec Room](https://www.meta.com/affiliates/92kEQidTP)
+- [Big Scary](https://www.meta.com/affiliates/Ap14jLh3B)
+- [VRChat](https://www.meta.com/affiliates/QwQ1nHN2n)
 
 
 # Apps
