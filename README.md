@@ -296,6 +296,7 @@ Accessories are towards the bottom!
 - [VRChat](https://www.meta.com/affiliates/QwQ1nHN2n)
 - [Surgineer](https://www.meta.com/affiliates/8pgb1VYcD)
 - [BEATABLE](https://www.meta.com/affiliates/6wshisfgh)
+- [HITMAN 3 VR: Reloaded](https://www.meta.com/affiliates/5fRfviTvB)
 
 
 # Apps
