@@ -336,6 +336,7 @@ Accessories are towards the bottom!
 - [Pure Barre](https://www.meta.com/affiliates/4TgfNvNL2)
 - [Cirque du Soleil](https://www.meta.com/affiliates/B9B8gQACn)
 - [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
+- [4XVR Premium Version](https://www.meta.com/affiliates/ExmLPjbSN)
 
 
 # Accessories
