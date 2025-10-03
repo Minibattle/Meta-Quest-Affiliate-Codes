@@ -297,6 +297,8 @@ Accessories are towards the bottom!
 - [Surgineer](https://www.meta.com/affiliates/8pgb1VYcD)
 - [BEATABLE](https://www.meta.com/affiliates/6wshisfgh)
 - [HITMAN 3 VR: Reloaded](https://www.meta.com/affiliates/5fRfviTvB)
+- [Swarm](https://www.meta.com/affiliates/7WXiq13sp)
+- [SWARM 2](https://www.meta.com/affiliates/FCXGHSvYu)
 
 
 # Apps
