@@ -299,6 +299,14 @@ Accessories are towards the bottom!
 - [HITMAN 3 VR: Reloaded](https://www.meta.com/affiliates/5fRfviTvB)
 - [Swarm](https://www.meta.com/affiliates/7WXiq13sp)
 - [SWARM 2](https://www.meta.com/affiliates/FCXGHSvYu)
+- [Men in Black: Most Wanted](https://www.meta.com/affiliates/9ksevfXye)
+- [Deadly Delivery](https://www.meta.com/affiliates/DMNpY3aBv)
+- [Thief VR: Legacy of Shadow](https://www.meta.com/affiliates/DMNpY3aBv)
+- [Arken Age](https://www.meta.com/affiliates/KTNcQFfNK)
+- [Virtual Skate](https://www.meta.com/affiliates/7s6x4Vwki)
+- [Arcane Horizon](https://www.meta.com/affiliates/Da3cgPRey)
+- [Void Raiders](https://www.meta.com/affiliates/9uBxtdcF5)
+- [Panic Room](https://www.meta.com/affiliates/4S6Tc5u48T)
 
 
 # Apps
@@ -340,7 +348,6 @@ Accessories are towards the bottom!
 - [Cirque du Soleil](https://www.meta.com/affiliates/B9B8gQACn)
 - [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
 - [4XVR Premium Version](https://www.meta.com/affiliates/ExmLPjbSN)
-
 
 # Accessories
 None of these include a discount but purchasing them does give me a kick back at no extra cost to you. It's a great way to support this list for free.
