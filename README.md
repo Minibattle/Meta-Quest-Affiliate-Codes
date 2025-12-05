@@ -4,6 +4,8 @@ A list of discount codes for games, apps, hardware, and accessories on the Meta 
 # Automatic Extensions Available Now
 [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/)
 
+# You can also use code "LOP" to get 10% off instead.
+
 Automatically applies the 10% discount to EVERY game on the Quest store (including DLC's) using this [Chrome extension](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en). A [Firefox Extension](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/) is also available. The extension uses an exploit to enable the 10% off on EVERYTHING- even things that are missing from this github.
 
 
