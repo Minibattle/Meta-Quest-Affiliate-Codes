@@ -309,6 +309,7 @@ Accessories are towards the bottom!
 - [Arcane Horizon](https://www.meta.com/affiliates/Da3cgPRey)
 - [Void Raiders](https://www.meta.com/affiliates/9uBxtdcF5)
 - [Panic Room](https://www.meta.com/affiliates/4S6Tc5u48T)
+- [Marvel's Deadpool VR](https://www.meta.com/affiliates/AXor4NUSm)
 
 
 # Apps
