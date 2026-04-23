@@ -310,6 +310,11 @@ Accessories are towards the bottom!
 - [Void Raiders](https://www.meta.com/affiliates/9uBxtdcF5)
 - [Panic Room](https://www.meta.com/affiliates/4S6Tc5u48T)
 - [Marvel's Deadpool VR](https://www.meta.com/affiliates/AXor4NUSm)
+- [ForeFront](https://www.meta.com/affiliates/DwL6GFuiE)
+- [The Amusement](https://www.meta.com/affiliates/G7wBwocD2)
+- [Beyond Sandbox](https://www.meta.com/affiliates/8bXUWRGRB)
+- [Jurassic World Aftermath Collection](https://www.meta.com/affiliates/AG3cZ2XYz)
+- [DOWNSHOT](https://www.meta.com/affiliates/8ecNQ25Mw)
 
 
 # Apps
