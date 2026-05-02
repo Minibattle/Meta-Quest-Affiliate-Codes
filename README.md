@@ -315,6 +315,9 @@ Accessories are towards the bottom!
 - [Beyond Sandbox](https://www.meta.com/affiliates/8bXUWRGRB)
 - [Jurassic World Aftermath Collection](https://www.meta.com/affiliates/AG3cZ2XYz)
 - [DOWNSHOT](https://www.meta.com/affiliates/8ecNQ25Mw)
+- [Teenage Mutant Ninja Turtles Empire City](https://www.meta.com/affiliates/Dtd6rds9A)
+- [Little Nightmares VR: Altered Echoes](https://www.meta.com/affiliates/8jDQ1DouW)
+- [WRATH: Aeon of Ruin VR - Brutal Edition](https://www.meta.com/affiliates/EH2TgbuKN)
 
 
 # Apps
