@@ -88,7 +88,7 @@ Accessories are towards the bottom!
 - [Real VR Fishing](https://www.meta.com/affiliates/AuSCsoRwg)
 - [Eleven Table Tennis](https://www.meta.com/affiliates/AqvCFNCkV)
 - [Contractors](https://www.meta.com/affiliates/DGgcA2puR)
-- [Contractors Showdown](https://www.meta.com/affiliates/9YWZUA7RP)
+- [Contractors Showdown : ExfilZone](https://www.meta.com/affiliates/9YWZUA7RP)
 - [Breachers](https://www.meta.com/affiliates/WYZ2PYCFL)
 - [GORN](https://www.meta.com/affiliates/8Audb6viX)
 - [Frenzy VR](https://www.meta.com/affiliates/7zAakuoBr)
@@ -319,6 +319,8 @@ Accessories are towards the bottom!
 - [Little Nightmares VR: Altered Echoes](https://www.meta.com/affiliates/8jDQ1DouW)
 - [WRATH: Aeon of Ruin VR - Brutal Edition](https://www.meta.com/affiliates/EH2TgbuKN)
 - [The Boys](https://www.meta.com/affiliates/8dJS6YFF9)
+- [UnLoop](https://www.meta.com/affiliates/KxLkeuwab)
+- [UBOAT: The Silent Wolf](https://www.meta.com/affiliates/cFDhcWU1j)
 
 
 # Apps
