@@ -321,6 +321,7 @@ Accessories are towards the bottom!
 - [The Boys](https://www.meta.com/affiliates/8dJS6YFF9)
 - [UnLoop](https://www.meta.com/affiliates/KxLkeuwab)
 - [UBOAT: The Silent Wolf](https://www.meta.com/affiliates/cFDhcWU1j)
+- [Ghosts of Tabor: LEGACY](https://www.meta.com/affiliates/BJzXbhMtY)
 
 
 # Apps
