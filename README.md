@@ -17,6 +17,7 @@ Accessories are towards the bottom!
 - [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
 - [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($30 in store credit)
+- [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
 - [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
