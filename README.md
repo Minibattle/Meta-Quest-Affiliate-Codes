@@ -1,7 +1,7 @@
 # USING CODE "LOP" IN THE STORE WORKS AND IS THE EASIEST WAY TO GET A DISCOUNT!!
 
-## Meta Quest Affiliate Codes
-A list of discount codes for games, apps, hardware, and accessories on the Meta Quest Store. Using any of these will give you a price cut (Usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request. If they aren't added in a day, the games probably aren't in my affiliate portal yet so you'll have to wait for it too show up for me before I can give it to you.
+## Meta Quest and Pimax Affiliate Codes
+A list of discount codes for games, apps, hardware, and accessories on the Meta Quest and Pimax Store. Using any of these will give you a price cut (Usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request. If they aren't added in a day, the games probably aren't in my affiliate portal yet so you'll have to wait for it too show up for me before I can give it to you.
 
 # Automatic Extensions Available Now
 [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/)
@@ -14,10 +14,10 @@ Automatically applies the 10% discount to EVERY game on the Quest store (includi
 # Hardware
 Accessories are towards the bottom!
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
-- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
+- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)\
+- [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
 - [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($30 in store credit)
-- [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
 - [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
