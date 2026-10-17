@@ -1,24 +1,57 @@
-# USING CODE "LOP" IN THE QUEST STORE WORKS AND IS THE EASIEST WAY TO GET A DISCOUNT!! USE CODE "MinibattleLop" IN THE PIMAX STORE
+## VR Discounts  
+A list of discount codes for games, apps, hardware, and accessories on a multitude of different VR storefronts. Using any of these will usually give you a pretty hefty price cut. Request games via reporting an issue and they'll usually be added within a day of request.
+<img width="2559" height="1439" alt="4 OG HD" src="https://github.com/user-attachments/assets/5f8da1c0-5644-4832-8b86-0b5023c6691f" />
+<br>
+<br>
 
-## Meta Quest and Pimax Affiliate Codes
-A list of discount codes for games, apps, hardware, and accessories on the Meta Quest and Pimax Store. Using any of these will give you a price cut (Usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request. If they aren't added in a day, the games probably aren't in my affiliate portal yet so you'll have to wait for it too show up for me before I can give it to you.
+- # How To Use
 
-# Automatic Extensions Available Now
+# **Web Extensions (Automatic Method)**
 [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/)
 
-# You can also use code "LOP" to get 10% off instead.
+Automatically applies the discounts to **EVERY** site automatically, so you'll always have a discount when one's available (including DLC's for Games). Simply install the [Chrome extension](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) or [Firefox Extension](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/) and continue with a purchase, the discounts will be automatically applied.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+- # How To Use
 
-Automatically applies the 10% discount to EVERY game on the Quest store (including DLC's) using this [Chrome extension](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en). A [Firefox Extension](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/) is also available. The extension uses an exploit to enable the 10% off on EVERYTHING- even things that are missing from this github.
+# **Per-Site Codes (Manual Method)**
+Simply apply these codes at checkout manually if you don't/can't use the web extensions for automatic handling.
+## <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />  Meta 
+10% off ALL games and apps. $30 USD in store credit when used to purchase hardware.
+- **LOP**
+
+## <img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />   Pimax
+Massive discounts on all Pimax headsets. Usually no lower than $200
+- **MinibattleLop**
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+- # How To Use
+# **Affiliate Links (Semi-Automatic)**
+Simply click a corresponding link and follow the checkout instructions.
+<br>
+<br>
 
 
 # Hardware
 Accessories are towards the bottom!
 
-## Pimax
-- [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
-- [Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
-
-## Meta
+## <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />  Meta 
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
 - [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
@@ -27,8 +60,13 @@ Accessories are towards the bottom!
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
 - [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
 
+## <img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />   Pimax
+- [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
+- [Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
 
-# Games
+
+# <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" /> Games
+It's recommended to use "CRTL + F" to search for specific games
 - [Batman: Arkham Shadow](https://www.meta.com/affiliates/4eMt61m9R3)
 - [Beat Saber](https://www.meta.com/affiliates/5GtTEYLtw)
 - [Blade Sorcery: Nomad](https://www.meta.com/affiliates/9ZE4wBHaU)
@@ -333,7 +371,7 @@ Accessories are towards the bottom!
 - [Remnant Protocol](https://www.meta.com/affiliates/HXNBhzEQA)
 
 
-# Apps
+# <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" /> Apps
 - [Virtual Desktop](https://www.meta.com/affiliates/54MtRAxRA)
 - [SKYBOX VR Video Player](https://www.meta.com/affiliates/9F6t3vyJo)
 - [PianoVision](https://www.meta.com/affiliates/AzXXaACAw)
@@ -373,7 +411,7 @@ Accessories are towards the bottom!
 - [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
 - [4XVR Premium Version](https://www.meta.com/affiliates/ExmLPjbSN)
 
-# Accessories
+# <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" /> Accessories
 None of these include a discount but purchasing them does give me a kick back at no extra cost to you. It's a great way to support this list for free.
 
 - [Meta Quest 3 Carrying Case](https://www.meta.com/affiliates/5SgyWjHAJ)
