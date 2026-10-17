@@ -13,7 +13,12 @@ Automatically applies the 10% discount to EVERY game on the Quest store (includi
 
 # Hardware
 Accessories are towards the bottom!
-## [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
+
+## Pimax
+[All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
+[Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
+
+## Meta
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
 - [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)\
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
