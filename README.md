@@ -20,7 +20,7 @@ Accessories are towards the bottom!
 
 ## Meta
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
-- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)\
+- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
 - [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($30 in store credit)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
