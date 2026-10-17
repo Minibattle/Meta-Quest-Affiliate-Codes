@@ -1,4 +1,4 @@
-# USING CODE "LOP" IN THE STORE WORKS AND IS THE EASIEST WAY TO GET A DISCOUNT!!
+# USING CODE "LOP" IN THE QUEST STORE WORKS AND IS THE EASIEST WAY TO GET A DISCOUNT!! USE CODE "MinibattleLop" IN THE PIMAX STORE
 
 ## Meta Quest and Pimax Affiliate Codes
 A list of discount codes for games, apps, hardware, and accessories on the Meta Quest and Pimax Store. Using any of these will give you a price cut (Usually 10% off). Request games via reporting an issue and they'll usually be added within a day of request. If they aren't added in a day, the games probably aren't in my affiliate portal yet so you'll have to wait for it too show up for me before I can give it to you.
@@ -16,7 +16,7 @@ Accessories are towards the bottom!
 
 ## Pimax
 - [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
-- [Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
+- [Pimax EVO](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
 
 ## Meta
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
