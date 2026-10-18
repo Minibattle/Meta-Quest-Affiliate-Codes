@@ -7,7 +7,6 @@ A list of discount codes for games, apps, hardware, and accessories on a multitu
 - # How To Use
 
 # **Web Extensions (Automatic Method)**
-*These are currently the old outdated extensions. The new one is releasing as soon as approval goes through so look out for new releases on the right. (This message was updated 10/17/2026), so very recently!!)
 [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/)
 
 Automatically applies the discounts to **EVERY** site automatically, so you'll always have a discount when one's available (including DLC's for Games). Simply install the [Chrome extension](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) or [Firefox Extension](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/) and continue with a purchase, the discounts will be automatically applied.
