@@ -24,11 +24,11 @@ Automatically applies the discounts to **EVERY** site automatically, so you'll a
 
 # **Per-Site Codes (Manual Method)**
 Simply apply these codes at checkout manually if you don't/can't use the web extensions for automatic handling.
-## <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />  Meta 
+## [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/)  Meta 
 10% off ALL games and apps. $30 USD in store credit when used to purchase hardware.
 - **LOP**
 
-## <img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />   Pimax
+## [<img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://www.pimax.com/)   Pimax
 Massive discounts on all Pimax headsets. Usually no lower than $200
 - **MinibattleLop**
 
@@ -51,7 +51,7 @@ Simply click a corresponding link and follow the checkout instructions.
 # Hardware
 Accessories are towards the bottom!
 
-## <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />  Meta 
+## [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/)  Meta 
 - [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
 - [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
@@ -60,12 +60,12 @@ Accessories are towards the bottom!
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
 - [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
 
-## <img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />   Pimax
+## [<img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://www.pimax.com/)   Pimax
 - [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
 - [Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
 
 
-# <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" /> Games
+# [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Games
 It's recommended to use "CRTL + F" to search for specific games
 - [Batman: Arkham Shadow](https://www.meta.com/affiliates/4eMt61m9R3)
 - [Beat Saber](https://www.meta.com/affiliates/5GtTEYLtw)
@@ -371,7 +371,7 @@ It's recommended to use "CRTL + F" to search for specific games
 - [Remnant Protocol](https://www.meta.com/affiliates/HXNBhzEQA)
 
 
-# <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" /> Apps
+# [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Apps
 - [Virtual Desktop](https://www.meta.com/affiliates/54MtRAxRA)
 - [SKYBOX VR Video Player](https://www.meta.com/affiliates/9F6t3vyJo)
 - [PianoVision](https://www.meta.com/affiliates/AzXXaACAw)
@@ -411,7 +411,7 @@ It's recommended to use "CRTL + F" to search for specific games
 - [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
 - [4XVR Premium Version](https://www.meta.com/affiliates/ExmLPjbSN)
 
-# <img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" /> Accessories
+# [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Accessories
 None of these include a discount but purchasing them does give me a kick back at no extra cost to you. It's a great way to support this list for free.
 
 - [Meta Quest 3 Carrying Case](https://www.meta.com/affiliates/5SgyWjHAJ)
