@@ -80,7 +80,7 @@ Accessories are towards the bottom!
 
 ## [<img width="25" height="25" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro)   Pimax (Headsets)
 - [All Pimax Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
-- [All Pimax Headset with Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off- Currently can be used to get $200 off any Headset, so USE THIS ONE!!)
+- [All Pimax Headset with Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off- Currently can be used to get $200 off any Headset)
 - [Pimax Crystal Super QLED](https://store.pimax.com/products/pimax-crystal-super?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
 - [Pimax Crystal Super 8K Micro-OLED](https://store.pimax.com/products/pimax-crystal-super-sony-8k-micro-oled?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (2% Off)
 - [Pimax Crystal Light](https://store.pimax.com/products/pimax-crystal-light?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (2% Off)
