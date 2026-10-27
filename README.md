@@ -1,15 +1,17 @@
 ## VR Discounts  
-A list of discount codes for games, apps, hardware, and accessories on a multitude of different VR storefronts. Using any of these will usually give you a pretty hefty price cut. Request games via reporting an issue and they'll usually be added within a day of request.
-<img width="2559" height="1439" alt="4 OG HD" src="https://github.com/user-attachments/assets/5f8da1c0-5644-4832-8b86-0b5023c6691f" />
+A list of discount codes for games, apps, hardware, and accessories on a multitude of different VR storefronts. From headsets to prescription lenses. Using any of these will usually give you a pretty hefty price cut. It is recommended to use "CRTL + F" to find specific products.
+# Click [Here](https://youtu.be/qv-vfoewAB4) to Watch a Video Demonstration
+[<img width="2559" height="1439" alt="4 OG HD" src="https://github.com/user-attachments/assets/5f8da1c0-5644-4832-8b86-0b5023c6691f" />](https://youtu.be/qv-vfoewAB4)
 <br>
 <br>
 
 - # How To Use
 
 # **Web Extensions (Automatic Method)**
-[<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/)
+[<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/ohkkagegpnooghgpikbmdiolbajnpjpo?utm_source=item-share-cb) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-US/firefox/addon/automatic-vr-discounts/)
 
-Automatically applies the discounts to **EVERY** site automatically, so you'll always have a discount when one's available (including DLC's for Games). Simply install the [Chrome extension](https://chromewebstore.google.com/detail/meta-quest-store-affiliat/jhdghdpageiifcfpcfejmfhcbmnobjea?authuser=0&hl=en) or [Firefox Extension](https://addons.mozilla.org/en-CA/firefox/addon/10-off-the-quest-store/) and continue with a purchase, the discounts will be automatically applied.
+Automatically applies the discounts to **EVERY** site automatically, so you'll always have a discount when one's available (including DLC's for Games). Simply install the [Chrome extension](https://chromewebstore.google.com/detail/ohkkagegpnooghgpikbmdiolbajnpjpo?utm_source=item-share-cb) or [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/automatic-vr-discounts/) and continue with a purchase, the discounts will be automatically applied.
+
 <br>
 <br>
 <br>
@@ -20,17 +22,29 @@ Automatically applies the discounts to **EVERY** site automatically, so you'll a
 <br>
 <br>
 <br>
+
 - # How To Use
 
 # **Per-Site Codes (Manual Method)**
 Simply apply these codes at checkout manually if you don't/can't use the web extensions for automatic handling.
-## [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/)  Meta 
+## [<img width="25" height="17" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/)  Meta 
 10% off ALL games and apps. $30 USD in store credit when used to purchase hardware.
 - **LOP**
 
-## [<img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://www.pimax.com/)   Pimax
-Massive discounts on all Pimax headsets. Usually no lower than $200
+## [<img width="25" height="25" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro)   Pimax
+Massive discounts on all Pimax headsets. Usually no lower than a $200 discount
 - **MinibattleLop**
+
+## [<img width="25" height="25" alt="unnamed" src="https://github.com/user-attachments/assets/b69a3cc4-40a7-47c8-abdc-d651c85dcf9a" />](https://www.kat-vr.com/?ref=MinibattleLop)  KAT VR
+Major discounts on all KatWalk Treadmills. Usually no lower than a $130 discount
+- **MinibattleLop**
+
+## [<img width="30" height="30" alt="channels4_profile" src="https://github.com/user-attachments/assets/a1f2e4bb-9124-40cb-9e9f-109982c81e05" />](https://www.vr-rock.com/?ref=lop)  VR-Rock
+10% off EVERYTHING and all Prescription/Plano Lenses
+- **MINIBATTLELOP69** 
+
+
+
 
 
 <br>
@@ -48,25 +62,60 @@ Simply click a corresponding link and follow the checkout instructions.
 <br>
 
 
+
+
 # Hardware
 Accessories are towards the bottom!
 
-## [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/)  Meta 
-- [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
-- [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
+## [<img width="25" height="17" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/)  Meta (Headsets and Glasses)
+- ## [Meta Quest 3s](https://www.meta.com/affiliates/275DUwELSB) ($30 in store credit)
+- ## [Meta Quest 3](https://www.meta.com/affiliates/6uPvUgKzy) ($30 in store credit)
 - [Meta Quest 3s 24 Month Financing](https://www.meta.com/affiliates/5DaKNqoFG) ($30 in store credit)
 - [Meta Quest 3 24 Month Financing](https://www.meta.com/affiliates/Bdu9VPxqF) ($30 in store credit)
+- [Prescription Lenses for all Meta/Oculus Headsets](https://www.vr-rock.com/collections/meta-quest-3-3s-2-prescription-lenses?ref=lop) (10% off)
 - [Ray Ban Meta Wayfarer](https://www.meta.com/affiliates/8RBPeF9xo) (No benefit but supports me)
 - [Ray Ban Meta Headliner](https://www.meta.com/affiliates/AJb6JEK5t) (No benefit but supports me)
 - [Ray Ban Meta Skyler](https://www.meta.com/affiliates/5Mv3Ba5yx) (No benefit but supports me)
+- [Prescription Lenses for all Meta AI Glasses](https://www.vr-rock.com/collections/prescription-lenses-for-meta-ai-glasses?ref=lop) (10% off)
 
-## [<img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://www.pimax.com/)   Pimax
-- [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
-- [Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
+## [<img width="25" height="25" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro)   Pimax (Headsets)
+- [All Pimax Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
+- [All Pimax Headset with Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off- Currently can be used to get $200 off any Headset, so USE THIS ONE!!)
+- [Pimax Crystal Super QLED](https://store.pimax.com/products/pimax-crystal-super?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
+- [Pimax Crystal Super 8K Micro-OLED](https://store.pimax.com/products/pimax-crystal-super-sony-8k-micro-oled?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (2% Off)
+- [Pimax Crystal Light](https://store.pimax.com/products/pimax-crystal-light?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (2% Off)
+- [Pimax Dream Air](https://store.pimax.com/products/pimax-dream-air?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (2% Off)
+- [Pimax Dream Air SE](https://store.pimax.com/products/pimax-dream-air-se?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (2% Off)
+- [Prescription Lenses for all Pimax Headsets](https://www.vr-rock.com/collections/pimax-prescription-lenses?ref=lop) (10% off)
 - [All Pimax Headsets in Japan](https://jp.pimax.com/?ref=MinibattleLop) (Major Discount depending on which Headset)
 
+## [<img width="25" height="25" alt="unnamed" src="https://github.com/user-attachments/assets/b69a3cc4-40a7-47c8-abdc-d651c85dcf9a" />](https://www.kat-vr.com/?ref=MinibattleLop)  KAT VR (Treadmills/Slidemills)
+- [All KatWalk Treadmills](https://www.kat-vr.com/?ref=MinibattleLop) ($130 Off)
 
-# [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Games
+## [<img width="30" height="30" alt="channels4_profile" src="https://github.com/user-attachments/assets/a1f2e4bb-9124-40cb-9e9f-109982c81e05" />](https://www.vr-rock.com/?ref=lop)  VR-Rock (Prescription Lenses or Plano Lenses)
+Everything is 10% off. Including the Prescription Lenses
+- [All Lenses and Products](https://www.vr-rock.com/?ref=5sc7zmqhcz) (10% off Everything)
+- [Steam Frame Lenses](https://www.vr-rock.com/products/steam-frame-prescription-lenses?ref=lop) (10% off)
+- [All Meta/Oculus Lenses](https://www.vr-rock.com/collections/meta-quest-3-3s-2-prescription-lenses?ref=lop) (10% off)
+- [Meta AI Glasses Lenses](https://www.vr-rock.com/collections/prescription-lenses-for-meta-ai-glasses?ref=lop) (10% off)
+- [PSVR1/2 Lenses](https://www.vr-rock.com/collections/psvr2-1-prescription-lenses?ref=lop) (10% off)
+- [Bigscreen Beyond 1/2 Lenses](https://www.vr-rock.com/products/bigscreen-prescription-lens-inserts?ref=lop) (10% off)
+- [All Pimax Lenses](https://www.vr-rock.com/collections/pimax-prescription-lenses?ref=lop) (10% off)
+- [All Pico Prescription Lenses](https://www.vr-rock.com/collections/pico-prescription-lenses?ref=lop) (10% off)
+- [HP Reverb G1/G2 Lenses](https://www.vr-rock.com/collections/hp-reverb-g2-g1-prescription-lenses?ref=lop) (10% off)
+- [Apple Vision Pro Lenses](https://www.vr-rock.com/collections/apple-vision-pro-prescription-lenses) (10% off)
+- [Xreal Lenses](https://www.vr-rock.com/collections/xreal-prescription-lenses?ref=lop) (10% off)
+- [VIRTURE Lenses](https://www.vr-rock.com/collections/viture-prescription-lenses?ref=lop) (10% off)
+- [Rokid Lenses](https://www.vr-rock.com/collections/rokid-prescription-lenses?ref=lop) (10% off)
+- [RayNeo Lenses](https://www.vr-rock.com/collections/rayneo-prescription-lenses?ref=lop) (10% off)
+- [INMO Lenses](https://www.vr-rock.com/collections/inmo-prescription-lenses?ref=lop) (10% off)
+- [DJI Lenses](https://www.vr-rock.com/collections/dji-prescription-lenses?ref=lop) (10% off)
+
+<br>
+<br>
+
+
+# [<img width="25" height="17" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Games
 It's recommended to use "CRTL + F" to search for specific games
 - [Batman: Arkham Shadow](https://www.meta.com/affiliates/4eMt61m9R3)
 - [Beat Saber](https://www.meta.com/affiliates/5GtTEYLtw)
@@ -372,7 +421,7 @@ It's recommended to use "CRTL + F" to search for specific games
 - [Remnant Protocol](https://www.meta.com/affiliates/HXNBhzEQA)
 
 
-# [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Apps
+# [<img width="25" height="17" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Apps
 - [Virtual Desktop](https://www.meta.com/affiliates/54MtRAxRA)
 - [SKYBOX VR Video Player](https://www.meta.com/affiliates/9F6t3vyJo)
 - [PianoVision](https://www.meta.com/affiliates/AzXXaACAw)
@@ -412,9 +461,34 @@ It's recommended to use "CRTL + F" to search for specific games
 - [djay](https://www.meta.com/affiliates/9VZ8NVQ7w)
 - [4XVR Premium Version](https://www.meta.com/affiliates/ExmLPjbSN)
 
-# [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Accessories
-None of these include a discount but purchasing them does give me a kick back at no extra cost to you. It's a great way to support this list for free.
+<br>
+<br>
+<br>
 
+# Accessories
+
+## [<img width="30" height="30" alt="channels4_profile" src="https://github.com/user-attachments/assets/a1f2e4bb-9124-40cb-9e9f-109982c81e05" />](https://www.vr-rock.com/?ref=lop)  VR-Rock (Prescription Lenses or Plano Lenses)
+Everything is 10% off. Including the Prescription Lenses
+- [All Lenses and Products](https://www.vr-rock.com/?ref=5sc7zmqhcz) (10% off Everything)
+- [Steam Frame Lenses](https://www.vr-rock.com/products/steam-frame-prescription-lenses?ref=lop) (10% off)
+- [All Meta/Oculus Lenses](https://www.vr-rock.com/collections/meta-quest-3-3s-2-prescription-lenses?ref=lop) (10% off)
+- [Meta AI Glasses Lenses](https://www.vr-rock.com/collections/prescription-lenses-for-meta-ai-glasses?ref=lop) (10% off)
+- [PSVR1/2 Lenses](https://www.vr-rock.com/collections/psvr2-1-prescription-lenses?ref=lop) (10% off)
+- [Bigscreen Beyond 1/2 Lenses](https://www.vr-rock.com/products/bigscreen-prescription-lens-inserts?ref=lop) (10% off)
+- [All Pimax Lenses](https://www.vr-rock.com/collections/pimax-prescription-lenses?ref=lop) (10% off)
+- [All Pico Prescription Lenses](https://www.vr-rock.com/collections/pico-prescription-lenses?ref=lop) (10% off)
+- [HP Reverb G1/G2 Lenses](https://www.vr-rock.com/collections/hp-reverb-g2-g1-prescription-lenses?ref=lop) (10% off)
+- [Apple Vision Pro Lenses](https://www.vr-rock.com/collections/apple-vision-pro-prescription-lenses) (10% off)
+- [Xreal Lenses](https://www.vr-rock.com/collections/xreal-prescription-lenses?ref=lop) (10% off)
+- [VIRTURE Lenses](https://www.vr-rock.com/collections/viture-prescription-lenses?ref=lop) (10% off)
+- [Rokid Lenses](https://www.vr-rock.com/collections/rokid-prescription-lenses?ref=lop) (10% off)
+- [RayNeo Lenses](https://www.vr-rock.com/collections/rayneo-prescription-lenses?ref=lop) (10% off)
+- [INMO Lenses](https://www.vr-rock.com/collections/inmo-prescription-lenses?ref=lop) (10% off)
+- [DJI Lenses](https://www.vr-rock.com/collections/dji-prescription-lenses?ref=lop) (10% off)
+
+## [<img width="25" height="17" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Meta
+### [Prescription Lenses for all Meta/Oculus Headsets](https://www.vr-rock.com/collections/meta-quest-3-3s-2-prescription-lenses?ref=lop) (10% off)
+### [Prescription Lenses for all Meta AI Glasses](https://www.vr-rock.com/collections/prescription-lenses-for-meta-ai-glasses?ref=lop) (10% off)
 - [Meta Quest 3 Carrying Case](https://www.meta.com/affiliates/5SgyWjHAJ)
 - [Meta Quest 3 Elite Strap with Battery](https://www.meta.com/affiliates/4gs2jkwB6)
 - [Meta Quest 3 Elite Strap](https://www.meta.com/affiliates/AebaMGPyE)
@@ -451,6 +525,15 @@ None of these include a discount but purchasing them does give me a kick back at
 - [Meta Quest 3S Breathable Facial Interface](https://www.meta.com/affiliates/5U4Q2W5KQ)
 - [KIWI Design RGB Vertical Stand for Meta Quest](https://www.meta.com/affiliates/7jTxQzzku)
 
+## [<img width="25" height="25" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) Pimax
+### [Prescription Lenses for all Pimax Headsets](https://www.vr-rock.com/collections/pimax-prescription-lenses?ref=lop) (10% off)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## DEBUG FOR BROWSER EXTENSIONS PLEASE IGNORE
 ### Working
