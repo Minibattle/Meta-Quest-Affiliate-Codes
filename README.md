@@ -63,6 +63,7 @@ Accessories are towards the bottom!
 ## [<img width="25" height="15" alt="pimax" src="https://github.com/user-attachments/assets/000256fb-b0f5-4b72-ada1-6d2515243fd0" />](https://www.pimax.com/)   Pimax
 - [All PIMAX Headsets](https://store.pimax.com/?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) (Major Discount depending on which Headset)
 - [Pimax EVO](https://store.pimax.com/products/pimax-headset-with-pimax-evo-software?ref=MinibattleLop&utm_campaign=affiliate_promotions&utm_medium=affiliate&utm_source=goaffpro) ($200 Off)
+- [All Pimax Headsets in Japan](https://jp.pimax.com/?ref=MinibattleLop) (Major Discount depending on which Headset)
 
 
 # [<img width="25" height="15" alt="Meta_Platforms_Inc _logo_(cropped) svg" src="https://github.com/user-attachments/assets/162574f0-284d-41a5-88b5-c27d92d26fa8" />](https://www.meta.com/) Games
