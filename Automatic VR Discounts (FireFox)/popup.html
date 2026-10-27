@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font: 13px system-ui, sans-serif; width: 240px; margin: 14px; color: #1c1e21; }
+  h1 { font-size: 15px; margin: 0 0 4px; }
+  p.sub { margin: 0 0 14px; color: #65676b; }
+  .toggle { display: flex; align-items: center; justify-content: space-between; font-weight: 600; cursor: pointer; }
+  .switch { position: relative; width: 40px; height: 22px; }
+  .switch input { opacity: 0; width: 0; height: 0; }
+  .slider { position: absolute; inset: 0; background: #ccd0d5; border-radius: 22px; transition: .15s; }
+  .slider::before { content: ""; position: absolute; width: 18px; height: 18px; left: 2px; top: 2px; background: #fff; border-radius: 50%; transition: .15s; }
+  input:checked + .slider { background: #0866ff; }
+  input:checked + .slider::before { transform: translateX(18px); }
+  p.note { color: #65676b; font-size: 11px; margin: 14px 0 0; }
+</style>
+</head>
+<body>
+  <h1>10% Off The Quest Store</h1>
+  <p class="sub">Applies a creator code at checkout on the Meta Quest Store, Pimax Store and KAT VR Store.</p>
+
+  <label class="toggle">
+    <span id="label">Enabled</span>
+    <span class="switch"><input type="checkbox" id="enabled"><span class="slider"></span></span>
+  </label>
+
+  <p class="note">Uses creator codes "lop" (Meta) and "MinibattleLop" (Pimax &amp; KAT VR) — purchases with them may support that creator at no extra cost to you. Never replaces a code you've entered.</p>
+  <script src="popup.js"></script>
+</body>
+</html>

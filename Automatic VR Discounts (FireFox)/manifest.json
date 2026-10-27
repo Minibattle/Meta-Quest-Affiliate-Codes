@@ -1,0 +1,47 @@
+{
+  "manifest_version": 3,
+  "name": "Automatic VR Discounts",
+  "version": "1.2.0",
+  "description": "Automatically enters a creator code at Meta Quest Store, Pimax Store and KAT VR Store checkout. Contains affiliate codes.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://*.meta.com/*",
+    "https://*.oculus.com/*",
+    "https://*.pimax.com/*",
+    "https://kat-vr.com/*",
+    "https://*.kat-vr.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "10% Off The Quest Store"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.meta.com/*",
+        "https://*.oculus.com/*",
+        "https://*.pimax.com/*",
+        "https://kat-vr.com/*",
+        "https://*.kat-vr.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "quest-store-10-off@example.com",
+      "strict_min_version": "140.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  }
+}
