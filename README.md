@@ -10,7 +10,7 @@ A list of discount codes for games, apps, hardware, and accessories on a multitu
 # **Web Extensions (Automatic Method)**
 [<img src="https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06" alt="(https://github.com/user-attachments/assets/05a6efe6-94b5-49b5-b8f7-17affe5b8c06)" width="100"/>](https://chromewebstore.google.com/detail/ohkkagegpnooghgpikbmdiolbajnpjpo?utm_source=item-share-cb) [<img src="https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7" alt="(https://github.com/user-attachments/assets/5616d10c-0963-478e-b817-abf528c1a5e7)" width="100"/>](https://addons.mozilla.org/en-US/firefox/addon/automatic-vr-discounts/)
 
-Automatically applies the discounts to **EVERY** site automatically, so you'll always have a discount when one's available (including DLC's for Games). Simply install the [Chrome extension](https://chromewebstore.google.com/detail/ohkkagegpnooghgpikbmdiolbajnpjpo?utm_source=item-share-cb) or [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/automatic-vr-discounts/) and continue with a purchase, the discounts will be automatically applied.
+Automatically applies the discounts to **EVERY** site automatically, so you'll always have a discount when one's available. To comply with Meta's terms, this does not include the code  Simply install the [Chrome extension](https://chromewebstore.google.com/detail/ohkkagegpnooghgpikbmdiolbajnpjpo?utm_source=item-share-cb) or [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/automatic-vr-discounts/) and continue with a purchase, the discounts will be automatically applied.
 
 <br>
 <br>
